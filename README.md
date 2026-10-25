@@ -1,7 +1,1 @@
-# Git Practise
-
-Learning Git for software development.
-
-## Developers
-- Parveez
-- Fareed
+this is fareed file and this is have the code 
