@@ -66,3 +66,4 @@ A hands-on project for learning and practising Git commands used in software dev
 ## Goal
 
 Build confidence using Git and GitHub in real-world software development and team collaboration.
+this is fareed file and this is have the code 
